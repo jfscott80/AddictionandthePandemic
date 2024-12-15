@@ -12,14 +12,14 @@ Analysis of Public Health Data
 ### This project uses RStudio
 
 
-**Data Sources**
-[CDC_Wonder_Overdose_Deaths](https://www.cdc.gov/overdose-prevention/data-research/facts-stats/sudors-dashboard-fatal-overdose-data-accessible.html)
-[DOSE_Dashboard](https://www.tn.gov/content/tn/health/health-program-areas/pdo/pdo/data-dashboard.html#downloadabledata)
-[Substance_Abuse_Treatment_Funding_TN](https://www.tn.gov/transparenttn/state-financial-overview/interactive-budget/state-budget.html)
-[SAMHSA_Treatment_Admission_Discharge_Data](https://www.samhsa.gov/data/data-we-collect/teds/datafiles?puf_id=47362)
+**Data Sources**  
+[CDC_Wonder_Overdose_Deaths](https://www.cdc.gov/overdose-prevention/data-research/facts-stats/sudors-dashboard-fatal-overdose-data-accessible.html)  
+[DOSE_Dashboard](https://www.tn.gov/content/tn/health/health-program-areas/pdo/pdo/data-dashboard.html#downloadabledata)  
+[Substance_Abuse_Treatment_Funding_TN](https://www.tn.gov/transparenttn/state-financial-overview/interactive-budget/state-budget.html)  
+[SAMHSA_Treatment_Admission_Discharge_Data](https://www.samhsa.gov/data/data-we-collect/teds/datafiles?puf_id=47362)  
 
 
 
-*Terms*
-Pre-Covid:    01/2018 - 02/2020
-During-Covid: 03/2020 - 12/2022
+*Terms*  
+Pre-Covid:    01/2018 - 02/2020  
+During-Covid: 03/2020 - 12/2022  
